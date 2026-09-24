@@ -1,0 +1,37 @@
+{
+  "author": "Alex26",
+  "background": {
+    "blur": "0px",
+    "image": "D:\\Downloads\\TA-2026-08-25-15-59-41-lowpolyart-221173502567202.mp4",
+    "muted": true,
+    "opacity": 0.35,
+    "pauseWhenInactive": true,
+    "playbackRate": 1,
+    "position": "center center",
+    "repeat": "no-repeat",
+    "size": "cover",
+    "type": "video",
+    "volume": 0.8
+  },
+  "colors": {
+    "accent": "#c146f1",
+    "bg-app": "#111019",
+    "bg-card": "rgba(20, 18, 33, 0.62)",
+    "bg-surface": "rgba(27, 24, 42, 0.68)",
+    "color-danger": "#f53d53",
+    "text-primary": "#f4f3f6"
+  },
+  "description": "the sadness of expone girlfriend",
+  "id": "expone-sad",
+  "isDark": true,
+  "name": "Expone sad",
+  "ui": {
+    "borderRadius": "8px",
+    "borderRadiusSm": "6px",
+    "fontFamily": "'Inter', system-ui, sans-serif",
+    "fontSizeBase": "13px"
+  },
+  "version": "1.0.0",
+  "communityId": "expone-sad-jtue",
+  "authorKeyHash": "fb06c94628742f0d5cc15e721f9c03a9e201c5f6126fab70af9cee1a8e9ac681"
+}
