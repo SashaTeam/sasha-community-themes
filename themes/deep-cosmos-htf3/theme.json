@@ -1,5 +1,6 @@
 {
   "author": "Sasha Team",
+  "authorKeyHash": "61a86581d81dc7b02e172005ee5f639c4cc68bc583de1c43198b872f27812b91",
   "background": {
     "blur": "0px",
     "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Deep Cosmos\\wallpaper.html",
@@ -44,6 +45,7 @@
     "text-primary": "#f8fafc",
     "text-secondary": "#94a3b8"
   },
+  "communityId": "deep-cosmos-htf3",
   "description": "An immersive deep space theme featuring a multi-layered starfield, flowing cosmic nebulae, subtle shooting stars, and frosted dark glass panels.",
   "id": "deep-cosmos",
   "isDark": true,
@@ -54,7 +56,6 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.0",
-  "communityId": "deep-cosmos-htf3",
-  "authorKeyHash": "61a86581d81dc7b02e172005ee5f639c4cc68bc583de1c43198b872f27812b91"
+  "version": "1.0.1",
+  "previewImageUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/deep-cosmos-htf3/cover-v1.0.1-mug3cfzm.gif"
 }
