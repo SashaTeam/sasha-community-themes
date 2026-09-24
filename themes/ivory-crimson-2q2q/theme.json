@@ -1,5 +1,6 @@
 {
   "author": "Sasha Team",
+  "authorKeyHash": "4a85d4b80036dd81b542b1a7cd1832e47dd6633cf41d3905e5446bd8bdde2d51",
   "background": {
     "blur": "0px",
     "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Ivory & Crimson\\Ivory & Crimson.png",
@@ -17,9 +18,10 @@
     "accent": "#b42332",
     "bg-app": "#f6f3ef",
     "bg-card": "rgba(255, 255, 255, 0.78)",
+    "bg-pane-header": "rgba(253, 253, 250, 0.7)",
     "bg-preview": "rgba(253, 253, 250, 0.6)",
     "bg-sidebar": "rgba(253, 253, 250, 0.6)",
-    "bg-surface": "rgba(253, 253, 250, 0.9)",
+    "bg-surface": "#fdfdfa",
     "color-danger": "#d92d20",
     "text-primary": "#292525"
   },
@@ -34,7 +36,6 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.1",
-  "authorKeyHash": "4a85d4b80036dd81b542b1a7cd1832e47dd6633cf41d3905e5446bd8bdde2d51",
-  "remoteWallpaperUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/ivory-crimson-2q2q/wallpaper-v1.0.1-mufyxe5h.png"
+  "version": "1.0.3",
+  "remoteWallpaperUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/ivory-crimson-2q2q/wallpaper-v1.0.3-mug2bn0v.png"
 }
