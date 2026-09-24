@@ -1,0 +1,39 @@
+{
+  "author": "Sasha Team",
+  "background": {
+    "blur": "0px",
+    "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Ivory & Crimson.png",
+    "muted": true,
+    "opacity": 1,
+    "pauseWhenInactive": true,
+    "playbackRate": 1,
+    "position": "center center",
+    "repeat": "no-repeat",
+    "size": "cover",
+    "type": "auto",
+    "volume": 0.8
+  },
+  "colors": {
+    "accent": "#b42332",
+    "bg-app": "#f6f3ef",
+    "bg-card": "rgba(255, 255, 255, 0.78)",
+    "bg-preview": "rgba(253, 253, 250, 0.6)",
+    "bg-sidebar": "rgba(253, 253, 250, 0.6)",
+    "bg-surface": "rgba(253, 253, 250, 0.9)",
+    "color-danger": "#d92d20",
+    "text-primary": "#292525"
+  },
+  "description": "A light, refined theme inspired by ivory, crimson, and the quiet bond between a girl and her dragon.",
+  "id": "ivory-crimson",
+  "isDark": false,
+  "name": "Ivory & Crimson",
+  "ui": {
+    "borderRadius": "8px",
+    "borderRadiusSm": "6px",
+    "fontFamily": "'Inter', system-ui, sans-serif",
+    "fontSizeBase": "13px"
+  },
+  "version": "1.0.0",
+  "communityId": "ivory-crimson-2q2q",
+  "authorKeyHash": "4a85d4b80036dd81b542b1a7cd1832e47dd6633cf41d3905e5446bd8bdde2d51"
+}
