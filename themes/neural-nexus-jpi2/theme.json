@@ -1,5 +1,6 @@
 {
   "author": "Sasha Team",
+  "authorKeyHash": "7d31f4842d55360f7f2ddb6b588d49f1391e6338f6e32bacbb1b74716ac957dc",
   "background": {
     "blur": "0px",
     "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Cosmic Plexus\\wallpaper.html",
@@ -44,6 +45,7 @@
     "text-primary": "#f1f5f9",
     "text-secondary": "#94a3b8"
   },
+  "communityId": "neural-nexus-jpi2",
   "description": "A cybernetic dark theme featuring live streaming data packets, glowing synaptic nodes, and frosted acrylic panels.",
   "id": "cosmic-plexus",
   "isDark": true,
@@ -54,7 +56,6 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.0",
-  "communityId": "neural-nexus-jpi2",
-  "authorKeyHash": "7d31f4842d55360f7f2ddb6b588d49f1391e6338f6e32bacbb1b74716ac957dc"
+  "version": "1.0.1",
+  "previewImageUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/neural-nexus-jpi2/cover-v1.0.1-mug3akde.gif"
 }
