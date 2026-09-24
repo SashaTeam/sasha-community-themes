@@ -1,0 +1,25 @@
+{
+  "author": "Sasha User",
+  "colors": {
+    "accent": "#6366f1",
+    "bg-app": "#0e1118",
+    "bg-card": "rgba(20, 24, 35, 0.6)",
+    "bg-surface": "rgba(22, 26, 38, 0.65)",
+    "color-danger": "#ef4444",
+    "text-primary": "#f8fafc"
+  },
+  "description": "",
+  "id": "new-theme",
+  "isDark": true,
+  "name": "New Theme",
+  "ui": {
+    "borderRadius": "8px",
+    "borderRadiusSm": "6px",
+    "fontFamily": "'Inter', system-ui, sans-serif",
+    "fontSizeBase": "13px"
+  },
+  "version": "1.0.0",
+  "communityId": "new-theme-yn0a",
+  "authorKeyHash": "8539f75ca8079a8260e0b697281ee1e0a407c61c66757dfc8304b9e4c96d5090",
+  "previewImageUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/new-theme-yn0a/cover-v1.0.0-mug2jwy3.webp"
+}
