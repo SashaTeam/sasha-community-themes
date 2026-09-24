@@ -1,0 +1,34 @@
+{
+  "author": "Sasha Team",
+  "background": {
+    "blur": "0px",
+    "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Momiji Dusk\\video.mp4",
+    "muted": true,
+    "opacity": 1,
+    "pauseWhenInactive": true,
+    "playbackRate": 1,
+    "type": "video",
+    "volume": 0.8
+  },
+  "colors": {
+    "accent": "#f43f5e",
+    "bg-app": "#0d0c11",
+    "bg-card": "rgba(28, 21, 33, 0.62)",
+    "bg-surface": "rgba(18, 14, 22, 0.70)",
+    "color-danger": "#ef4444",
+    "text-primary": "#fff1f2"
+  },
+  "description": "An evocative Japanese twilight theme with scarlet momiji autumn leaves, a glowing crimson sunset over the lake, and frosted dark acrylic panels.",
+  "id": "momiji-dusk",
+  "isDark": true,
+  "name": "Momiji Dusk",
+  "ui": {
+    "borderRadius": "8px",
+    "borderRadiusSm": "5px",
+    "fontFamily": "'Inter', system-ui, sans-serif",
+    "fontSizeBase": "13px"
+  },
+  "version": "1.0.0",
+  "communityId": "momiji-dusk-31xr",
+  "authorKeyHash": "1214740ee4d62e1fa2f3011350280b0314703b42dd3076fea4db309a30a31d70"
+}
