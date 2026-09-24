@@ -1,5 +1,6 @@
 {
   "author": "Sasha User",
+  "authorKeyHash": "29f874423f7039c4de9ae39a8db0170916577e7a26a5d883d2fb5ed782b9afad",
   "background": {
     "blur": "0px",
     "image": "C:\\Users\\Marco\\Downloads\\Hobby\\elwin.jpeg",
@@ -21,6 +22,7 @@
     "color-danger": "#ef4444",
     "text-primary": "#f8fafc"
   },
+  "communityId": "new-theme-4-4l6e",
   "description": "",
   "id": "new-theme-4",
   "isDark": true,
@@ -31,8 +33,7 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.0",
-  "communityId": "new-theme-4-4l6e",
-  "authorKeyHash": "29f874423f7039c4de9ae39a8db0170916577e7a26a5d883d2fb5ed782b9afad",
-  "remoteWallpaperUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/new-theme-4-4l6e/wallpaper-v1.0.0-mug2uiez.jpeg"
+  "version": "1.0.1",
+  "remoteWallpaperUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/new-theme-4-4l6e/wallpaper-v1.0.1-mug2uz6g.jpeg",
+  "previewImageUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/new-theme-4-4l6e/cover-v1.0.1-mug2uz6g.webp"
 }
