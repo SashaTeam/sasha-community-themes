@@ -2,7 +2,7 @@
   "author": "Sasha Team",
   "background": {
     "blur": "0px",
-    "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Ivory & Crimson.png",
+    "image": "C:\\Users\\Marco\\AppData\\Roaming\\sasha\\skins\\Ivory & Crimson\\Ivory & Crimson.png",
     "muted": true,
     "opacity": 1,
     "pauseWhenInactive": true,
@@ -23,6 +23,7 @@
     "color-danger": "#d92d20",
     "text-primary": "#292525"
   },
+  "communityId": "ivory-crimson-2q2q",
   "description": "A light, refined theme inspired by ivory, crimson, and the quiet bond between a girl and her dragon.",
   "id": "ivory-crimson",
   "isDark": false,
@@ -33,7 +34,7 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.0",
-  "communityId": "ivory-crimson-2q2q",
-  "authorKeyHash": "4a85d4b80036dd81b542b1a7cd1832e47dd6633cf41d3905e5446bd8bdde2d51"
+  "version": "1.0.1",
+  "authorKeyHash": "4a85d4b80036dd81b542b1a7cd1832e47dd6633cf41d3905e5446bd8bdde2d51",
+  "remoteWallpaperUrl": "https://raw.githubusercontent.com/SashaTeam/sasha-community-themes/main/themes/ivory-crimson-2q2q/wallpaper-v1.0.1-mufyxe5h.png"
 }
