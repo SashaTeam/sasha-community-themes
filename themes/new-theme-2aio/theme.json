@@ -1,13 +1,14 @@
 {
   "author": "Sasha Team",
   "colors": {
-    "accent": "#f7d050",
-    "bg-app": "#181326",
-    "bg-card": "rgba(29, 21, 51, 0.62)",
-    "bg-surface": "rgba(33, 25, 57, 0.68)",
-    "color-danger": "#f53d46",
-    "text-primary": "#f4f3f6"
+    "accent": "#ee20be",
+    "bg-app": "#261221",
+    "bg-card": "rgba(55, 21, 47, 0.62)",
+    "bg-surface": "rgba(54, 23, 47, 0.68)",
+    "color-danger": "#f53d4c",
+    "text-primary": "#f6f3f6"
   },
+  "communityId": "new-theme-2aio",
   "description": "testing",
   "id": "new-theme",
   "isDark": true,
@@ -18,7 +19,6 @@
     "fontFamily": "'Inter', system-ui, sans-serif",
     "fontSizeBase": "13px"
   },
-  "version": "1.0.0",
-  "communityId": "new-theme-2aio",
+  "version": "1.0.1",
   "authorKeyHash": "b5cb5fe5426bd7c7b32c2c94ba7c7f3a7c0ce31f34ca6ab4febf685abc7b7092"
 }
